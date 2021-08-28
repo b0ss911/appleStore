@@ -397,7 +397,8 @@ border-radius: 44px;
     background-color:rgb(125, 214, 184);
     font-family: 'Baloo Chettan 2', cursive;
     color: black;
-    width: 132%
+    width: 132%;
+    height: 24px;    
 }
 
 }
