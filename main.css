@@ -3,6 +3,7 @@
     background-color:rgb(125, 214, 184);
     font-family: 'Baloo Chettan 2', cursive;
     color: black;
+    width: 100%
 }
 
 .tst {
@@ -385,7 +386,7 @@ border-radius: 44px;
 
 @media only screen and (max-device-width: 600px) {
     body {
-      background-color: blue;
+      background-color: white;
     }
     .tst {
         background-color: red;
