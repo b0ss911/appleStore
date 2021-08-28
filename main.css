@@ -391,7 +391,14 @@ border-radius: 44px;
     .tst {
         background-color: red;
     } 
-
+    
+    .size {
+    font-size: xx-large;
+    background-color:rgb(125, 214, 184);
+    font-family: 'Baloo Chettan 2', cursive;
+    color: black;
+    width: 132%
+}
 
 }
 
