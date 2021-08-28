@@ -1,0 +1,66 @@
+.sumit{
+    background-color: darkcyan;
+    height: 36px;
+    font-size: 18px;
+    color: white;
+}
+.abhi {
+    margin-left: 509px;
+    margin-top: 50px;
+}
+.fsize{
+    font-size: 28px;
+}
+.bsize{
+    font-size: 50px;
+}
+.rsize{
+    font-size: 20px;
+}
+.busize {
+    color: #9100ff;
+    border-radius: 44px;
+    font-size: large;
+    margin-left: 97px;
+}
+.lsize{
+    font-size: large;
+    margin-left: 74px;
+}
+.imgsize{
+    margin-left: -335px;
+}
+.get{
+    font-size: 55px;
+    margin-left: -155px;
+    color: dodgerblue;
+}
+.mam{
+    margin-left: -516px;
+    height: 706px;
+}
+.tpro{
+    height: 400px;
+    margin-left: -506px;
+}
+.whichsize{
+    font-size: 45px;
+    margin-left: -111px;
+    margin-top: 45px;
+} 
+.iphone12img{
+    height: 400px;
+    margin-left: -81px;
+}
+.seimg{
+    height: 400px;
+}
+.eimg{
+    height: 332px;
+    /* margin-left: 517px; */
+    margin-top: 42px;
+}
+
+.x {
+    display: flex;
+}

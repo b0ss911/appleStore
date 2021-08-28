@@ -1,0 +1,731 @@
+.built-in-apps .slide-photos-image {
+
+    background-image: url("/in/mac/home/images/bia_photos__bo5iy2fkdsly_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (min-resolution: 1.5dppx),
+(-webkit-min-device-pixel-ratio: 1.5),
+(min-resolution: 144dpi) {
+    .built-in-apps .slide-photos-image {
+        background-image: url("/in/mac/home/images/bia_photos__bo5iy2fkdsly_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .built-in-apps .slide-photos-image {
+
+        background-image: url("/in/mac/home/images/bia_photos__bo5iy2fkdsly_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
+only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .built-in-apps .slide-photos-image {
+        background-image: url("/in/mac/home/images/bia_photos__bo5iy2fkdsly_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .built-in-apps .slide-photos-image {
+
+        background-image: url("/in/mac/home/images/bia_photos__bo5iy2fkdsly_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (max-width: 735px) and (min-resolution: 1.5dppx),
+only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .built-in-apps .slide-photos-image {
+        background-image: url("/in/mac/home/images/bia_photos__bo5iy2fkdsly_small_2x.jpg")
+    }
+}
+
+
+
+.icloud {
+    background-image: url("/in/mac/home/images/overview/macos/security__ecyds4y0azee_large.jpg");
+}
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (min-resolution: 1.5dppx),
+(-webkit-min-device-pixel-ratio: 1.5),
+(min-resolution: 144dpi) {
+    .icloud {
+        background-image: url("/in/mac/home/images/overview/macos/security__ecyds4y0azee_large_2x.jpg")
+    }
+}
+@media only screen and (max-width: 1068px) {
+    .icloud {
+        background-image: url("/in/mac/home/images/overview/macos/security__ecyds4y0azee_medium.jpg")
+    }
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
+only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .icloud {
+        background-image: url("/in/mac/home/images/overview/macos/security__ecyds4y0azee_medium_2x.jpg")
+    }
+}
+@media only screen and (max-width: 734px) {
+    .icloud {
+        background-image: url("/in/mac/home/images/overview/macos/security__ecyds4y0azee_small.jpg")
+    }
+}
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (max-width: 734px) and (min-resolution: 1.5dppx),
+only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .icloud {
+        background-image: url("/in/mac/home/images/overview/macos/security__ecyds4y0azee_small_2x.jpg")
+    }
+}
+
+
+/* Accessories Banner */
+.banner-promo.accessories {
+    background-color: #f2f2f2;
+}
+
+.accessories {
+    height: 600px;
+    padding-bottom: 0px;
+}
+
+
+@media only screen and (max-width: 1068px) {
+    .accessories {
+        height: 550px;
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .accessories {
+        height: 550px;
+    }
+}
+
+html.text-zoom .accessories {
+    height: unset;
+    min-height: 600px;
+}
+
+@media only screen and (max-width: 1068px) {
+    html.text-zoom .accessories {
+        min-height: 550px;
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    html.text-zoom .accessories {
+        min-height: 550px;
+    }
+}
+
+/* 
+@media only screen and (max-width: 734px) {
+    .promo-section:not(.fp-tilegrid) {
+        padding-bottom: 15px;
+    }
+}
+ */
+
+.accessories {
+    background-size: 1381px 336px;
+    background-repeat: no-repeat;
+    background-image: url("/in/mac/home/images/overview/accessories_tile__dzhi6y7btcwi_large.jpg");
+    background-position-x: center;
+    background-position-y: bottom;
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (min-resolution: 1.5dppx),
+(-webkit-min-device-pixel-ratio: 1.5),
+(min-resolution: 144dpi) {
+    .accessories {
+        background-image: url("/in/mac/home/images/overview/accessories_tile__dzhi6y7btcwi_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .accessories {
+        background-size: 738px 235px;
+        background-repeat: no-repeat;
+        background-image: url("/in/mac/home/images/overview/accessories_tile__dzhi6y7btcwi_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
+only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .accessories {
+        background-image: url("/in/mac/home/images/overview/accessories_tile__dzhi6y7btcwi_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .accessories {
+        background-size: 736px 223px;
+        background-repeat: no-repeat;
+        background-image: url("/in/mac/home/images/overview/tiles/accessories_tile__dzhi6y7btcwi_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (max-width: 734px) and (min-resolution: 1.5dppx),
+only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .accessories {
+        background-image: url("/in/mac/home/images/overview/tiles/accessories_tile__dzhi6y7btcwi_small_2x.jpg")
+    }
+}
+
+.promo-section-alt {
+    padding-top: 0;
+}
+
+@media only screen and (max-width: 1068px) {
+    .promo-section-alt {
+        padding-top: 0
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .promo-section-alt {
+        padding-top: 0
+    }
+}
+
+
+
+@media only screen and (min-width: 735px) and (max-width: 1068px) {
+    .mt-medium {
+        margin-top: 16px;
+    }
+
+}
+
+@media only screen and (max-width: 472px) {
+    .x-small-show {
+        display: block;
+    }
+}
+
+.image-get-more-bundle {
+    background-image: url("/in/mac/home/images/overview/get-more/bundle__eqmvgz1saumq_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (min-resolution: 1.5dppx),
+(-webkit-min-device-pixel-ratio: 1.5),
+(min-resolution: 144dpi) {
+    .image-get-more-bundle {
+        background-image: url("/in/mac/home/images/overview/get-more/bundle__eqmvgz1saumq_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .image-get-more-bundle {
+
+        background-image: url("/in/mac/home/images/overview/get-more/bundle__eqmvgz1saumq_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
+only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .image-get-more-bundle {
+        background-image: url("/in/mac/home/images/overview/get-more/bundle__eqmvgz1saumq_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .image-get-more-bundle {
+
+        background-image: url("/in/mac/home/images/overview/get-more/bundle__eqmvgz1saumq_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (max-width: 734px) and (min-resolution: 1.5dppx),
+only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .image-get-more-bundle {
+        background-image: url("/in/mac/home/images/overview/get-more/bundle__eqmvgz1saumq_small_2x.jpg")
+    }
+}
+
+
+.apple-one .promo-image {
+
+    background-image: url("/in/mac/home/images/overview/get-more/bundle__eqmvgz1saumq_large.jpg");
+
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (min-resolution: 1.5dppx),
+(-webkit-min-device-pixel-ratio: 1.5),
+(min-resolution: 144dpi) {
+    .apple-one .promo-image {
+        background-image: url("/in/mac/home/images/overview/get-more/bundle__eqmvgz1saumq_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .apple-one .promo-image {
+
+        background-image: url("/in/mac/home/images/overview/get-more/bundle__eqmvgz1saumq_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
+only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .apple-one .promo-image {
+        background-image: url("/in/mac/home/images/overview/get-more/bundle__eqmvgz1saumq_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .apple-one .promo-image {
+
+        background-image: url("/in/mac/home/images/overview/get-more/bundle__eqmvgz1saumq_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (max-width: 734px) and (min-resolution: 1.5dppx),
+only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .apple-one .promo-image {
+        background-image: url("/in/mac/home/images/overview/get-more/bundle__eqmvgz1saumq_small_2x.jpg")
+    }
+}
+
+
+/* Apple One Icon */
+.image-get-more-bundle {
+    width: 409px;
+    height: 363px;
+    background-size: 409px 363px;
+}
+
+@media only screen and (max-width: 1068px) {
+    .image-get-more-bundle {
+        width: 253px;
+        height: 225px;
+        background-size: 253px 225px;
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .image-get-more-bundle {
+        width: 205px;
+        height: 182px;
+        background-size: 205px 182px;
+    }
+}
+
+.apple-one .promo-image {
+    width: 376px;
+    height: 329px;
+    background-size: 376px 329px;
+}
+
+@media only screen and (max-width: 1068px) {
+    .apple-one .promo-image {
+        width: 215px;
+        height: 191px;
+        background-size: 215px 191px;
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .apple-one .promo-image {
+        width: 205px;
+        height: 182px;
+        background-size: 205px 182px;
+    }
+}
+
+.arcade.fp-tile-2 {
+    margin-left: 1.04167%;
+    margin-right: 2.08333%;
+
+}
+
+@media only screen and (max-width: 734px) {
+    .arcade.fp-tile-2 {
+        margin-left: auto;
+        margin-right: auto
+    }
+}
+
+.section-buystrip .image-icon-ways-to-buy {
+    background-image: url("/in/global/includes/buystrip/images/ways-to-buy/icon_large.svg");
+    width: 40px;
+    margin: 0 auto .70588em;
+    background-size: 100% 73px;
+    background-position-y: -14px;
+    height: 44px;
+    background-repeat: no-repeat;
+}
+
+.section-buystrip .image-icon-cto {
+    width: 50px;
+    height: 44px;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-image: url("/in/global/includes/buystrip/images/cto/icon_large.svg");
+    position: relative;
+    left: 50%;
+    margin-left: -20px;
+}
+
+
+/*new build styles*/
+.arcade.fp-tile-2 {
+    margin-left: 1.04167%;
+    margin-right: 2.08333%;
+    height: 612px
+}
+
+@media only screen and (max-width: 1068px) {
+    .arcade.fp-tile-2 {
+        margin-left: 1.17041%;
+        margin-right: 2.34082%;
+        height: 467px
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .arcade.fp-tile-2 {
+        margin-left: auto;
+        margin-right: auto;
+        height: 490px
+    }
+}
+
+.built-in-apps .slide-safari-image {
+    background-image: url("/in/mac/home/images/overview/macos/built-in-apps/bia_safari__f5wdn5ar3gya_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (min-resolution: 1.5dppx),
+(-webkit-min-device-pixel-ratio: 1.5),
+(min-resolution: 144dpi) {
+    .built-in-apps .slide-safari-image {
+        background-image: url("/in/mac/home/images/overview/macos/built-in-apps/bia_safari__f5wdn5ar3gya_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .built-in-apps .slide-safari-image {
+        background-image: url("/in/mac/home/images/overview/macos/built-in-apps/bia_safari__f5wdn5ar3gya_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
+only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .built-in-apps .slide-safari-image {
+        background-image: url("/in/mac/home/images/overview/macos/built-in-apps/bia_safari__f5wdn5ar3gya_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .built-in-apps .slide-safari-image {
+        background-image: url("/in/mac/home/images/overview/macos/built-in-apps/bia_safari__f5wdn5ar3gya_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (max-width: 734px) and (min-resolution: 1.5dppx),
+only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .built-in-apps .slide-safari-image {
+        background-image: url("/in/mac/home/images/overview/macos/built-in-apps/bia_safari__f5wdn5ar3gya_small_2x.jpg")
+    }
+}
+.macos {
+    background-image: url("/in/mac/home/images/overview/macos/continuity__e28lzmresgeq_large.jpg");
+}
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (min-resolution: 1.5dppx),
+(-webkit-min-device-pixel-ratio: 1.5),
+(min-resolution: 144dpi) {
+    .macos {
+        background-image: url("/in/mac/home/images/overview/macos/continuity__e28lzmresgeq_large_2x.jpg")
+    }
+}
+@media only screen and (max-width: 1068px) {
+    .macos {
+        background-image: url("/in/mac/home/images/overview/macos/continuity__e28lzmresgeq_medium.jpg")
+    }
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
+only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .macos {
+        background-image: url("/in/mac/home/images/overview/macos/continuity__e28lzmresgeq_medium_2x.jpg")
+    }
+}
+@media only screen and (max-width: 734px) {
+    .macos {
+        background-image: url("/in/mac/home/images/overview/macos/continuity__e28lzmresgeq_small.jpg")
+    }
+}
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (max-width: 734px) and (min-resolution: 1.5dppx),
+only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .macos {
+        background-image: url("/in/mac/home/images/overview/macos/continuity__e28lzmresgeq_small_2x.jpg")
+    }
+}
+.section-hero.theme-dark .typography-hero-headline-super {
+    margin-bottom: 0px;
+}
+
+.section-holiday-2020 .banner-wrapper .banner-image {
+	background-image: url("/in/mac/home/images/overview/holiday/holiday_mac_family_hero__0rq2ectd3nm2_large.jpg");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+	.section-holiday-2020 .banner-wrapper .banner-image {
+		background-image: url("/in/mac/home/images/overview/holiday/holiday_mac_family_hero__0rq2ectd3nm2_large_2x.jpg");
+	}
+}
+
+@media only screen and (max-width: 1068px) {
+	.section-holiday-2020 .banner-wrapper .banner-image {
+		background-image: url("/in/mac/home/images/overview/holiday/holiday_mac_family_hero__0rq2ectd3nm2_medium.jpg");
+	}
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+	.section-holiday-2020 .banner-wrapper .banner-image {
+		background-image: url("/in/mac/home/images/overview/holiday/holiday_mac_family_hero__0rq2ectd3nm2_medium_2x.jpg");
+	}
+}
+
+@media only screen and (max-width: 734px) {
+	.section-holiday-2020 .banner-wrapper .banner-image {
+		background-image: url("/in/mac/home/images/overview/holiday/holiday_mac_family_hero__0rq2ectd3nm2_small.jpg");
+	}
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+	.section-holiday-2020 .banner-wrapper .banner-image {
+		background-image: url("/in/mac/home/images/overview/holiday/holiday_mac_family_hero__0rq2ectd3nm2_small_2x.jpg");
+	}
+}
+
+.section-tiles .fp-tile {
+    background-color: #f2f2f2;
+}
+.section-tiles .promo-headline, .section-tiles .promo-copy-wrapper {
+    text-align: center;
+}
+
+.tv-plus.fp-tile-2 {
+    display: block;
+    margin-left: 2.04167%;
+    margin-right: 1.08333%
+}
+@media only screen and (max-width: 1068px) {
+    .tv-plus.fp-tile-2 {
+        margin-left: 2.17041%;
+        margin-right: 1.34082%
+    }
+}
+@media only screen and (max-width: 734px) {
+    .tv-plus.fp-tile-2 {
+        margin-left: auto;
+        margin-right: auto
+    }
+}
+ 
+.ribbon-blue-to-default{
+    margin-top: 0;
+}
+
+    
+.why-mac {
+    background-image: url("/in/mac/home/images/overview/macos/why_mac__eilvvja113ki_large.jpg");
+}
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (min-resolution: 1.5dppx),
+(-webkit-min-device-pixel-ratio: 1.5),
+(min-resolution: 144dpi) {
+    .why-mac {
+        background-image: url("/in/mac/home/images/overview/macos/why_mac__eilvvja113ki_large_2x.jpg")
+    }
+}
+@media only screen and (max-width: 1068px) {
+    .why-mac {
+        background-image: url("/in/mac/home/images/overview/macos/why_mac__eilvvja113ki_medium.jpg")
+    }
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
+only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .why-mac {
+        background-image: url("/in/mac/home/images/overview/macos/why_mac__eilvvja113ki_medium_2x.jpg")
+    }
+}
+@media only screen and (max-width: 734px) {
+    .why-mac {
+        background-image: url("/in/mac/home/images/overview/macos/why_mac__eilvvja113ki_small.jpg")
+    }
+}
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (max-width: 734px) and (min-resolution: 1.5dppx),
+only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .why-mac {
+        background-image: url("/in/mac/home/images/overview/macos/why_mac__eilvvja113ki_small_2x.jpg")
+    }
+}
+
+
+
+.image-retail-monterey-tile { 
+    background-image: url("/in/mac/home/images/overview/retail/monterey_tile__05gxr4xhdn6e_large.jpg")
+}
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (min-resolution: 1.5dppx),
+(-webkit-min-device-pixel-ratio: 1.5),
+(min-resolution: 144dpi) {
+    .image-retail-monterey-tile {
+        background-image: url("/in/mac/home/images/overview/retail/monterey_tile__05gxr4xhdn6e_large_2x.jpg")
+    }
+}
+@media only screen and (max-width: 1068px) {
+    .image-retail-monterey-tile { 
+        background-image: url("/in/mac/home/images/overview/retail/monterey_tile__05gxr4xhdn6e_medium.jpg")
+    }
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
+only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .image-retail-monterey-tile {
+        background-image: url("/in/mac/home/images/overview/retail/monterey_tile__05gxr4xhdn6e_medium_2x.jpg")
+    }
+}
+@media only screen and (max-width: 734px) {
+    .image-retail-monterey-tile {
+        background-image: url("/in/mac/home/images/overview/retail/monterey_tile__05gxr4xhdn6e_small.jpg")
+    }
+}
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (max-width: 734px) and (min-resolution: 1.5dppx),
+only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .image-retail-monterey-tile {
+        background-image: url("/in/mac/home/images/overview/retail/monterey_tile__05gxr4xhdn6e_small_2x.jpg")
+    }
+}
+
+
+@media only screen and (min-width: 1069px) {
+    .section-retail .macos-monterey .banner-wrapper .banner-container .flex-image-wrapper .banner-image {
+        
+        background-image: url("/in/mac/home/images/overview/retail/monterey_tile__05gxr4xhdn6e_large.jpg");
+       
+    }
+}
+@media only screen and (min-width: 1069px) and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (min-width: 1069px) and (min-resolution: 1.5dppx),
+only screen and (min-width: 1069px) and (min-resolution: 144dpi) {
+    .section-retail .macos-monterey .banner-wrapper .banner-container .flex-image-wrapper .banner-image {
+        background-image: url("/in/mac/home/images/overview/retail/monterey_tile__05gxr4xhdn6e_large_2x.jpg")
+    }
+}
+ 
+@media only screen and (min-width: 1069px) and (max-width: 1068px) {
+    .section-retail .macos-monterey .banner-wrapper .banner-container .flex-image-wrapper .banner-image {
+         
+        background-image: url("/in/mac/home/images/overview/retail/monterey_tile__05gxr4xhdn6e_medium.jpg");
+        
+    }
+}
+@media only screen and (min-width: 1069px) and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (min-width: 1069px) and (max-width: 1068px) and (min-resolution: 1.5dppx),
+only screen and (min-width: 1069px) and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .section-retail .macos-monterey .banner-wrapper .banner-container .flex-image-wrapper .banner-image {
+        background-image: url("/in/mac/home/images/overview/retail/monterey_tile__05gxr4xhdn6e_medium_2x.jpg")
+    }
+}
+ 
+@media only screen and (min-width: 1069px) and (max-width: 734px) {
+    .section-retail .macos-monterey .banner-wrapper .banner-container .flex-image-wrapper .banner-image {
+        
+        background-image: url("/in/mac/home/images/overview/retail/monterey_tile__05gxr4xhdn6e_small.jpg");
+        
+    }
+}
+@media only screen and (min-width: 1069px) and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (min-width: 1069px) and (max-width: 734px) and (min-resolution: 1.5dppx),
+only screen and (min-width: 1069px) and (max-width: 734px) and (min-resolution: 144dpi) {
+    .section-retail .macos-monterey .banner-wrapper .banner-container .flex-image-wrapper .banner-image {
+        background-image: url("/in/mac/home/images/overview/retail/monterey_tile__05gxr4xhdn6e_small_2x.jpg")
+    }
+}
+ 
+@media only screen and (max-width: 1068px) {
+    .section-retail .macos-monterey .banner-wrapper .banner-container .flex-image-wrapper .banner-image {
+        
+        background-image: url("/in/mac/home/images/overview/retail/monterey_tile__05gxr4xhdn6e_medium.jpg");
+       
+    }
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
+only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .section-retail .macos-monterey .banner-wrapper .banner-container .flex-image-wrapper .banner-image {
+        background-image: url("/in/mac/home/images/overview/retail/monterey_tile__05gxr4xhdn6e_medium_2x.jpg")
+    }
+}
+@media only screen and (max-width: 734px) {
+    .section-retail .macos-monterey .banner-wrapper .banner-container .flex-image-wrapper .banner-image {
+         
+        background-image: url("/in/mac/home/images/overview/retail/monterey_tile__05gxr4xhdn6e_small.jpg");
+         
+    }
+}
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (max-width: 734px) and (min-resolution: 1.5dppx),
+only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .section-retail .macos-monterey .banner-wrapper .banner-container .flex-image-wrapper .banner-image {
+        background-image: url("/in/mac/home/images/overview/retail/monterey_tile__05gxr4xhdn6e_small_2x.jpg")
+    }
+}
+    
+.promo-tile.reasons {
+    background-image: url("/in/mac/home/images/overview/get-more/11_reasons__e1mfuklrwzee_large.jpg");
+}
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (min-resolution: 1.5dppx),
+(-webkit-min-device-pixel-ratio: 1.5),
+(min-resolution: 144dpi) {
+    .promo-tile.reasons {
+        background-image: url("/in/mac/home/images/overview/get-more/11_reasons__e1mfuklrwzee_large_2x.jpg")
+    }
+}
+@media only screen and (max-width: 1068px) {
+    .promo-tile.reasons {
+        background-image: url("/in/mac/home/images/overview/get-more/11_reasons__e1mfuklrwzee_medium.jpg")
+    }
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
+only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .promo-tile.reasons {
+        background-image: url("/in/mac/home/images/overview/get-more/11_reasons__e1mfuklrwzee_medium_2x.jpg")
+    }
+}
+@media only screen and (max-width: 734px) {
+    .promo-tile.reasons {
+        background-image: url("/in/mac/home/images/overview/get-more/11_reasons__e1mfuklrwzee_small.jpg")
+    }
+}
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (max-width: 734px) and (min-resolution: 1.5dppx),
+only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .promo-tile.reasons {
+        background-image: url("/in/mac/home/images/overview/get-more/11_reasons__e1mfuklrwzee_small_2x.jpg")
+    }
+}

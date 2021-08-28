@@ -1,0 +1,396 @@
+.size{
+    font-size: xx-large;
+    background-color:rgb(125, 214, 184);
+    font-family: 'Baloo Chettan 2', cursive;
+    color: black;
+}
+
+.tst {
+    background-color: rgb(0, 225, 255);
+}
+
+.isize{
+    font-size: xx-large;
+    background-image: url(./images/iphone3.jpg);
+}
+.back{
+    background-color: aqua;
+    
+}
+.asize{
+    font-size:xx-large;
+}
+.imgsize{
+    height: 751px;
+}
+
+.testing {
+    color:hsl(0, 44%, 93%);
+    position: relative;
+    top: -692px;
+    right: -1052px;
+}
+
+.test {
+    position: absolute;
+    height: 0px;
+}
+
+.dbba {
+    height: 447px;
+    width: 400px;
+    background-color: rgba(233, 232, 232, 0.925);
+    border: 1px blanchedalmond;
+    padding-left: 20px;
+margin-left: 130px;
+color: black;
+}
+.spfont{
+    font-family: 'Hammersmith One', sans-serif;
+    font-size: 50px;
+    color: rgb(32, 111, 143);
+}
+.tcolor{
+    color: rgb(18, 101, 143);
+}
+.bcolor{
+    color: lightgrey;
+}
+.akshit{
+    padding:20px ;
+    color: black;
+    size: 200px; 
+}
+.black{
+    color:grey;
+}
+.dbba2{
+    height: 470px;
+    width: 400px;
+    background-color: rgba(233, 232, 232, 0.925);
+    border: 1px blanchedalmond;
+    padding-left: 20px;
+margin-left: 130px;
+color: black;
+margin-top: -489px;
+    margin-left: 785px;
+    padding-top: 20px;
+
+}
+.test2  {
+    height: 0px;
+}
+.colorblack{
+    color: black;
+}
+
+.sumit{
+    font-family: 'Poppins', sans-serif;
+    font-size: 70px;
+}
+.harsh
+{
+    font-family: 'Poppins', sans-serif;
+    font-size: 60px;
+}
+.aqua{
+    color: lightseagreen;
+}
+.orange{
+    color: orange;
+}
+    .img2size{
+        height: 600px;
+    }
+    .navn{
+       
+        margin-left: -860px;
+        height: 749px;
+    
+    }
+
+.neet {
+    font-size: 40px;
+}
+
+.abhi{
+    display: inline;
+}
+
+.done{
+    color: red;
+}
+.vis{
+    margin-left: -320px;
+    font-size: 60px;
+}
+.dbba3{
+    height:200px;
+    width: 200px;
+    background-color: rgba(233, 232, 232, 0.925);
+    border: 1px blanchedalmond;
+    padding-left: -748px;
+margin-left: -727px;
+color: black;
+border-radius: 44px;
+
+}
+.dbba4{
+    height:200px;
+    width: 180px;
+    background-color: rgba(233, 232, 232, 0.925);
+    border: 1px blanchedalmond;
+    padding-left: 20px;
+margin-left: -414px;
+color: black;
+margin-top: -200px;
+border-radius: 44px;
+
+}
+.dbba5{
+    height:200px;
+    width: 180px;
+    background-color: rgba(233, 232, 232, 0.925);
+    border: 1px blanchedalmond;
+    padding-left: 20px;
+margin-left: -78px;
+color: black;
+margin-top: -200px;
+border-radius: 44px;
+}
+.dbba6{
+    height:200px;
+    width: 180px;
+    background-color: rgba(233, 232, 232, 0.925);
+    border: 1px blanchedalmond;
+    padding-left: 20px;
+margin-left: 248px;
+color: black;
+margin-top: -200px;
+border-radius: 44px;
+}
+.dbba7{
+    height:200px;
+    width: 180px;
+    background-color: rgba(233, 232, 232, 0.925);
+    border: 1px blanchedalmond;
+    padding-left: 20px;
+margin-left: -727px;
+color: black;
+margin-top: 65px;
+border-radius: 44px;
+}
+.ali{
+    height:200px;
+    width: 180px;
+    background-color: rgba(233, 232, 232, 0.925);
+    border: 1px blanchedalmond;
+    padding-left: 20px;
+margin-left: -413px;
+color: black;
+margin-top: -200px;
+border-radius: 44px;
+}
+.navneet{
+    height:200px;
+    width: 180px;
+    background-color: rgba(233, 232, 232, 0.925);
+    border: 1px blanchedalmond;
+    padding-left: 20px;
+margin-left: -73px;
+color: black;
+margin-top: -200px;
+border-radius: 44px;
+}
+ .love{
+    height:200px;
+    width: 180px;
+    background-color: rgba(233, 232, 232, 0.925);
+    border: 1px blanchedalmond;
+    padding-left: 20px;
+margin-left: 253px;
+color: black;
+margin-top: -200px;
+border-radius: 44px;
+ }
+ .vishali{
+     font-size: large;
+     font-family: 'Baloo Chettan 2', cursive;
+ }
+ .dimg{
+     height: 150px;
+     width: 150px;
+     padding: 23px;
+     padding-left: 20px;
+ }
+ .mimg
+{
+    height: 164px;
+     width: 164px;
+     padding: 0px;
+     padding-left: 4px;
+}
+.pimg{
+    height: 144px;
+    padding: 23px;
+    padding-left: 4px;
+}
+.wimg{
+    height: 150px;
+    padding: 14px;
+    padding-left: 4px;
+}
+.timg{
+    height: 158px;
+}
+.podimg{
+    height: 144px;
+    padding: 20px;
+}
+.tag{
+    height: 190px;
+}
+.smaan{
+    height: 156px;
+    padding: 20px;
+    padding-left: 0px;
+}
+.navi{
+    margin-left: -651px;
+    font-size: 50px;
+    color:lightseagreen;
+}
+.sumitsingh{
+    height: 400px;
+    width: 400px;
+    background-color: white;
+    border: 1px #352f25;
+    padding-left: 20px;
+    margin-left: 130px;
+    color: black;
+    margin-top: 46px;
+    margin-left: -636px;
+    padding-top: 20px;
+}
+.billi{
+    height: 367px;
+    width: 400px;
+    background-color: white;
+    border: 1px #352f25;
+    padding-left: 20px;
+    margin-left: 130px;
+    color: black;
+    margin-top: -421px;
+    margin-left: -69px;
+    padding-top: 55px;
+}
+.guri{
+    margin-top: -340px;
+    margin-left: -450px;
+    color: white;
+    font-size: xx-large;
+    font-family: 'Baloo Chettan 2', cursive;
+}
+.girl{
+    height: 292px;
+    width: 400px;
+    background-color: cornflowerblue;
+    border: 1px #352f25;
+    padding-left: 20px;
+    margin-left: 130px;
+    color: black;
+    margin-top: 289px;
+    margin-left: -600px;
+    padding-top: 55px;
+}
+
+.khushi{
+    height: 350px;
+    margin-left: -20px;
+    width: 420px;
+    margin-top: -55px;
+}
+.akshita{
+    height: 292px;
+    width: 400px;
+    background-color: cornflowerblue;
+    border: 1px #352f25;
+    padding-left: 20px;
+    margin-left: 130px;
+    color: black;
+    margin-top: -347px;
+    margin-left: -50px;
+    padding-top: 55px;
+}
+.pind{
+    width: 434px;
+    height: 350px;
+    margin-top: -56px;
+    margin-left: -22px;
+}
+.suk{
+    font-size: x-large;
+    margin-left: -595px;
+    margin-top: -300px;
+    color: white;
+}
+.neya{
+    color: white;
+    margin-top: -100px;
+    font-size: x-large;
+}
+.can{
+    margin-left: -713px;
+    margin-top: 252px;
+}
+
+.footer {
+    
+    width: 100%;
+    margin-left: -600px;
+    display: inline;
+}
+.navneet a:hover{
+    color: white;
+}
+.   {
+    color: white;
+}
+.flex{
+    display: -ms-inline-grid;
+width: 40px;
+margin-left: -600px;
+border-radius: 44px;
+}
+.backcolor{
+    border-radius: 8px;
+    border-color: dodgerblue;
+    border-block-end: revert;
+    border-block-color: dodgerblue;
+  
+}
+.con{
+    color: dimgrey;
+}
+
+@media only screen and (max-device-width: 600px) {
+    .con{
+        color: red;
+        font-size: 27px;
+    }
+}
+.iglink{
+    
+}
+
+@media only screen and (max-device-width: 600px) {
+    body {
+      background-color: blue;
+    }
+    .tst {
+        background-color: red;
+    } 
+
+
+}
+
